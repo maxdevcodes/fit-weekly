@@ -27,4 +27,24 @@
     }
   }
 }
+
+.btn {
+  background: #42b983;
+  border: 1px solid #42b983;
+  border-radius: 5px;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: none;
+  padding: 8px 12px;
+  margin: 2px 7px;
+}
+
+.input {
+  border: 1px solid #2c3e50;
+  border-radius: 5px;
+  font-size: 14px;
+  padding: 8px 12px;
+  margin: 2px 7px;
+}
 </style>
